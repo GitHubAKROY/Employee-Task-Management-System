@@ -6,9 +6,6 @@
 
 [On Youtube](https://www.youtube.com/playlist?list=PL2WFgdVk-usHC-HHC0SkpsmHquwHB0Aiy)
 
-## DEMO
-
-[DEMO](https://youtu.be/Ff3ug0eqrWI)
 
 ## Features
 
@@ -37,10 +34,3 @@
 + Username: john 
 + Password: 123
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and submit a pull request. Any contributions are welcome.
-
-## License
-
-This project is open-source and available under the MIT License.
